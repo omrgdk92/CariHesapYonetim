@@ -1,0 +1,27 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\BusinesLogic\bin\Debug\BusinesLogic.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\BusinesLogic\bin\Debug\BusinesLogic.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\BusinesLogic\obj\Debug\BusinesLogic.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\BusinesLogic\obj\Debug\BusinesLogic.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\BusinesLogic\obj\Debug\BusinesLogic.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\BusinesLogic\bin\Debug\DataAccessLayer.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\BusinesLogic\bin\Debug\Entity.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\BusinesLogic\bin\Debug\DataAccessLayer.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\BusinesLogic\bin\Debug\Entity.pdb
+F:\CariHesapYonetimi\BusinesLogic\obj\Debug\BusinesLogic.csprojResolveAssemblyReference.cache
+F:\CariHesapYonetimi\BusinesLogic\obj\Debug\BusinesLogic.dll
+F:\CariHesapYonetimi\BusinesLogic\obj\Debug\BusinesLogic.pdb
+F:\CariHesapYonetimi\BusinesLogic\bin\Debug\BusinesLogic.dll
+F:\CariHesapYonetimi\BusinesLogic\bin\Debug\BusinesLogic.pdb
+F:\CariHesapYonetimi\BusinesLogic\bin\Debug\DataAccessLayer.dll
+F:\CariHesapYonetimi\BusinesLogic\bin\Debug\Entity.dll
+F:\CariHesapYonetimi\BusinesLogic\bin\Debug\DataAccessLayer.pdb
+F:\CariHesapYonetimi\BusinesLogic\bin\Debug\Entity.pdb
+D:\CariHesapYonetimi\BusinesLogic\bin\Debug\BusinesLogic.dll
+D:\CariHesapYonetimi\BusinesLogic\bin\Debug\BusinesLogic.pdb
+D:\CariHesapYonetimi\BusinesLogic\bin\Debug\DataAccessLayer.dll
+D:\CariHesapYonetimi\BusinesLogic\bin\Debug\Entity.dll
+D:\CariHesapYonetimi\BusinesLogic\bin\Debug\DataAccessLayer.pdb
+D:\CariHesapYonetimi\BusinesLogic\bin\Debug\Entity.pdb
+D:\CariHesapYonetimi\BusinesLogic\obj\Debug\BusinesLogic.csprojResolveAssemblyReference.cache
+D:\CariHesapYonetimi\BusinesLogic\obj\Debug\BusinesLogic.dll
+D:\CariHesapYonetimi\BusinesLogic\obj\Debug\BusinesLogic.pdb

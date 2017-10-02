@@ -1,0 +1,62 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\obj\Debug\Presentation.CariHesaplarList.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\obj\Debug\Presentation.GirisPaneli.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\obj\Debug\Presentation.YeniCariHesapEkrani.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\bin\Debug\Presentation.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\obj\Debug\Presentation.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\bin\Debug\BusinesLogic.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\bin\Debug\DataAccessLayer.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\bin\Debug\Entity.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\bin\Debug\BusinesLogic.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\bin\Debug\DataAccessLayer.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\bin\Debug\Entity.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\obj\Debug\Presentation.GrupListe.resources
+F:\CariHesapYonetimi\Presentation\bin\Debug\Presentation.exe.config
+F:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.exe
+F:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.pdb
+F:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+F:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.CariHesaplarList.resources
+F:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.GirisPaneli.resources
+F:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.GrupListe.resources
+F:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+F:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.YeniCariHesapEkrani.resources
+F:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.YeniHesapHareketEkrani.resources
+F:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+F:\CariHesapYonetimi\Presentation\bin\Debug\Presentation.exe
+F:\CariHesapYonetimi\Presentation\bin\Debug\Presentation.pdb
+F:\CariHesapYonetimi\Presentation\bin\Debug\BusinesLogic.dll
+F:\CariHesapYonetimi\Presentation\bin\Debug\Entity.dll
+F:\CariHesapYonetimi\Presentation\bin\Debug\DataAccessLayer.dll
+F:\CariHesapYonetimi\Presentation\bin\Debug\BusinesLogic.pdb
+F:\CariHesapYonetimi\Presentation\bin\Debug\Entity.pdb
+F:\CariHesapYonetimi\Presentation\bin\Debug\DataAccessLayer.pdb
+D:\CariHesapYonetimi\Presentation\bin\Debug\Presentation.exe.config
+D:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.exe
+D:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.pdb
+D:\CariHesapYonetimi\Presentation\bin\Debug\Presentation.exe
+D:\CariHesapYonetimi\Presentation\bin\Debug\Presentation.pdb
+D:\CariHesapYonetimi\Presentation\bin\Debug\BusinesLogic.dll
+D:\CariHesapYonetimi\Presentation\bin\Debug\Entity.dll
+D:\CariHesapYonetimi\Presentation\bin\Debug\DataAccessLayer.dll
+D:\CariHesapYonetimi\Presentation\bin\Debug\BusinesLogic.pdb
+D:\CariHesapYonetimi\Presentation\bin\Debug\Entity.pdb
+D:\CariHesapYonetimi\Presentation\bin\Debug\DataAccessLayer.pdb
+D:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.CariHesaplarList.resources
+D:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.GirisPaneli.resources
+D:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.GrupListe.resources
+D:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.HesapHareketListe.resources
+D:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.YeniCariHesapEkrani.resources
+D:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.YeniHesapHareketEkrani.resources
+D:\CariHesapYonetimi\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\obj\Debug\Presentation.HesapHareketListe.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\obj\Debug\Presentation.YeniHesapHareketEkrani.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\obj\Debug\Presentation.YedekYukle.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\obj\Debug\Presentation.GunlukMizan.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\CariHesapYonetimi\Presentation\obj\Debug\Presentation.AylikMizanEkrani.resources

@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<ArrayOfHesapHareket xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HesapHareket>
+    <HesapHareketKod>1</HesapHareketKod>
+    <Carihesap>
+      <CariKod>1</CariKod>
+      <Unvan>Wissen Bahçeşehir</Unvan>
+      <FirmaLogo>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</FirmaLogo>
+      <Grup>
+        <GrupKodu>1</GrupKodu>
+        <GrupAdi>Bilişim</GrupAdi>
+      </Grup>
+      <Banka>
+        <BankaAdi>Halkbank</BankaAdi>
+        <SubeAdi>Beşiktaş</SubeAdi>
+        <SubeKodu>3877</SubeKodu>
+        <HesapNo>18956647</HesapNo>
+        <IBAN>TR-3241-3154-5777-8665-6987-2258</IBAN>
+      </Banka>
+      <Iletisim>
+        <Adres>Barbaros Bulvarı No:38 Starbucks Coffe Yanı</Adres>
+        <Tel>0(212) 590 87 74</Tel>
+        <CepTel> (   )        </CepTel>
+        <EMail>iletisim@wissenakademie.com</EMail>
+        <Web>wissenakademie.com</Web>
+        <Ilgili1 />
+        <Ilgili2 />
+      </Iletisim>
+      <Ticari>
+        <YabanciUyruk>true</YabanciUyruk>
+        <SahisFirmasi>false</SahisFirmasi>
+        <TCKimlikNo>0</TCKimlikNo>
+        <VergiNo>3586745697</VergiNo>
+        <VergiDairesi>Beşiktaş V.D</VergiDairesi>
+        <KDVNo>13894</KDVNo>
+      </Ticari>
+      <Kefil>
+        <Adres />
+        <Tel> (   )        </Tel>
+        <CepTel> (   )        </CepTel>
+        <AdSoyad />
+      </Kefil>
+    </Carihesap>
+    <Tutar>12750</Tutar>
+    <IslemTipi>NakitTahsilat</IslemTipi>
+    <IslemTarihi>2017-06-30T12:21:22.0093115+03:00</IslemTarihi>
+    <VadeTarihi>2017-06-30T12:21:22.0073114+03:00</VadeTarihi>
+    <VadeGunu>90</VadeGunu>
+    <Evrak>
+      <EvrakNo>36241</EvrakNo>
+      <EvrakTipi />
+      <EvrakCinsi />
+    </Evrak>
+  </HesapHareket>
+  <HesapHareket>
+    <HesapHareketKod>2</HesapHareketKod>
+    <Carihesap>
+      <CariKod>1</CariKod>
+      <Unvan>Wissen Bahçeşehir</Unvan>
+      <FirmaLogo>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</FirmaLogo>
+      <Grup>
+        <GrupKodu>1</GrupKodu>
+        <GrupAdi>Bilişim</GrupAdi>
+      </Grup>
+      <Banka>
+        <BankaAdi>Halkbank</BankaAdi>
+        <SubeAdi>Beşiktaş</SubeAdi>
+        <SubeKodu>3877</SubeKodu>
+        <HesapNo>18956647</HesapNo>
+        <IBAN>TR-3241-3154-5777-8665-6987-2258</IBAN>
+      </Banka>
+      <Iletisim>
+        <Adres>Barbaros Bulvarı No:38 Starbucks Coffe Yanı</Adres>
+        <Tel>0(212) 590 87 74</Tel>
+        <CepTel> (   )        </CepTel>
+        <EMail>iletisim@wissenakademie.com</EMail>
+        <Web>wissenakademie.com</Web>
+        <Ilgili1 />
+        <Ilgili2 />
+      </Iletisim>
+      <Ticari>
+        <YabanciUyruk>true</YabanciUyruk>
+        <SahisFirmasi>false</SahisFirmasi>
+        <TCKimlikNo>0</TCKimlikNo>
+        <VergiNo>3586745697</VergiNo>
+        <VergiDairesi>Beşiktaş V.D</VergiDairesi>
+        <KDVNo>13894</KDVNo>
+      </Ticari>
+      <Kefil>
+        <Adres />
+        <Tel> (   )        </Tel>
+        <CepTel> (   )        </CepTel>
+        <AdSoyad />
+      </Kefil>
+    </Carihesap>
+    <Tutar>12500</Tutar>
+    <IslemTipi>NakitTahsilat</IslemTipi>
+    <IslemTarihi>2017-06-30T12:21:22.0093115+03:00</IslemTarihi>
+    <VadeTarihi>2017-06-30T12:21:22.0073114+03:00</VadeTarihi>
+    <VadeGunu>86</VadeGunu>
+    <Evrak>
+      <EvrakNo>36242</EvrakNo>
+      <EvrakTipi />
+      <EvrakCinsi />
+    </Evrak>
+  </HesapHareket>
+  <HesapHareket>
+    <HesapHareketKod>3</HesapHareketKod>
+    <Carihesap>
+      <CariKod>1</CariKod>
+      <Unvan>Wissen Bahçeşehir</Unvan>
+      <FirmaLogo>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</FirmaLogo>
+      <Grup>
+        <GrupKodu>1</GrupKodu>
+        <GrupAdi>Bilişim</GrupAdi>
+      </Grup>
+      <Banka>
+        <BankaAdi>Halkbank</BankaAdi>
+        <SubeAdi>Beşiktaş</SubeAdi>
+        <SubeKodu>3877</SubeKodu>
+        <HesapNo>18956647</HesapNo>
+        <IBAN>TR-3241-3154-5777-8665-6987-2258</IBAN>
+      </Banka>
+      <Iletisim>
+        <Adres>Barbaros Bulvarı No:38 Starbucks Coffe Yanı</Adres>
+        <Tel>0(212) 590 87 74</Tel>
+        <CepTel> (   )        </CepTel>
+        <EMail>iletisim@wissenakademie.com</EMail>
+        <Web>wissenakademie.com</Web>
+        <Ilgili1 />
+        <Ilgili2 />
+      </Iletisim>
+      <Ticari>
+        <YabanciUyruk>true</YabanciUyruk>
+        <SahisFirmasi>false</SahisFirmasi>
+        <TCKimlikNo>0</TCKimlikNo>
+        <VergiNo>3586745697</VergiNo>
+        <VergiDairesi>Beşiktaş V.D</VergiDairesi>
+        <KDVNo>13894</KDVNo>
+      </Ticari>
+      <Kefil>
+        <Adres />
+        <Tel> (   )        </Tel>
+        <CepTel> (   )        </CepTel>
+        <AdSoyad />
+      </Kefil>
+    </Carihesap>
+    <Tutar>3500</Tutar>
+    <IslemTipi>NakitTahsilat</IslemTipi>
+    <IslemTarihi>2017-06-30T12:21:22.0093115+03:00</IslemTarihi>
+    <VadeTarihi>2017-06-30T12:21:22.0073114+03:00</VadeTarihi>
+    <VadeGunu>86</VadeGunu>
+    <Evrak>
+      <EvrakNo>36242</EvrakNo>
+      <EvrakTipi />
+      <EvrakCinsi>Gider</EvrakCinsi>
+    </Evrak>
+  </HesapHareket>
+</ArrayOfHesapHareket>

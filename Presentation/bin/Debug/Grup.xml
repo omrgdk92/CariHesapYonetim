@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfGrup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Grup>
+    <GrupKodu>1</GrupKodu>
+    <GrupAdi>Bilişim</GrupAdi>
+  </Grup>
+  <Grup>
+    <GrupKodu>2</GrupKodu>
+    <GrupAdi>Tekstil</GrupAdi>
+  </Grup>
+  <Grup>
+    <GrupKodu>3</GrupKodu>
+    <GrupAdi>Gıda</GrupAdi>
+  </Grup>
+  <Grup>
+    <GrupKodu>4</GrupKodu>
+    <GrupAdi>Turizm</GrupAdi>
+  </Grup>
+</ArrayOfGrup>
